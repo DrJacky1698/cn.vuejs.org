@@ -43,7 +43,7 @@ Vue (读音 /vjuː/，类似于 **view**) 是一套用于构建用户界面的**
 
 ## 声明式渲染
 
-<div class="vueschool"><a href="https://learning.dcloud.io/#/?vid=3" target="_blank" rel="sponsored noopener" title="Vue.js 教程 - 数据与方法">观看本节视频讲解</a></div>
+<div class="vueschool"><a href="https://learning.dcloud.io/#/?vid=2" target="_blank" rel="sponsored noopener" title="Vue.js 教程 - 数据与方法">观看本节视频讲解</a></div>
 
 Vue.js 的核心是一个允许采用简洁的模板语法来声明式地将数据渲染进 DOM 的系统：
 
