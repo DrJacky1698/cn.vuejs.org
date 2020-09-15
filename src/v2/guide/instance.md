@@ -6,7 +6,7 @@ order: 3
 
 ## 创建一个 Vue 实例
 
-<div class="vueschool"><a href="https://learning.dcloud.io/#/?vid=2" target="_blank" rel="sponsored noopener" title="Vue.js 教程 - 创建第一个 Vue 应用">观看本节视频讲解</a></div>
+<div class="vueschool"><a href="https://learning.dcloud.io/#/?vid=3" target="_blank" rel="sponsored noopener" title="Vue.js 教程 - 创建第一个 Vue 应用">观看本节视频讲解</a></div>
 
 每个 Vue 应用都是通过用 `Vue` 函数创建一个新的 **Vue 实例**开始的：
 
